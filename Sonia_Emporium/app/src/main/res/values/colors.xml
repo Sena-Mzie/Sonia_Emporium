@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryYellow">#FFD700</color>
+    <color name="lightYellow">#FFFACD</color>
+    <color name="black">#000000</color>
+    <color name="darkGold">#FFD700</color> <!-- Adjust as needed -->
+
+</resources>

@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "582010973914",
+    "project_id": "sonia-emporium-95984",
+    "storage_bucket": "sonia-emporium-95984.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582010973914:android:5b68b1fae3de294b97ffe3",
+        "android_client_info": {
+          "package_name": "com.example.sonia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNoPS-Dgu_6POueiPFbRO_A576PncJkkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582010973914:android:3163a5822d823b8697ffe3",
+        "android_client_info": {
+          "package_name": "com.example.sonia_emporium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNoPS-Dgu_6POueiPFbRO_A576PncJkkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582010973914:android:85945ad927c46d5b97ffe3",
+        "android_client_info": {
+          "package_name": "com.example.soniae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNoPS-Dgu_6POueiPFbRO_A576PncJkkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

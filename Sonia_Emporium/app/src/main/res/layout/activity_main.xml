@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF8DC"> <!-- Light yellow background color -->
+
+    <!-- Welcome Text -->
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="Welcome to Sonia_Emporium!"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#FFD700" /> <!-- Gold color for the text -->
+
+    <!-- Subtitle Text -->
+    <TextView
+        android:id="@+id/subtitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/welcomeText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Explore our unique collection now"
+        android:textSize="18sp"
+        android:textColor="#B8860B" /> <!-- Darker shade of gold -->
+
+    <!-- Catalog Button -->
+    <Button
+        android:id="@+id/catalogButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/subtitleText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:padding="12dp"
+        android:backgroundTint="#FFD700"
+        android:text="Browse Catalog"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp" />
+</RelativeLayout>
